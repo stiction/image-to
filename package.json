@@ -1,0 +1,28 @@
+{
+  "name": "image-to",
+  "version": "0.0.1",
+  "description": "convert image files to various formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiction/image-to.git"
+  },
+  "keywords": [
+    "image",
+    "convert",
+    "jpg",
+    "jpeg",
+    "png",
+    "gif",
+    "webp"
+  ],
+  "author": "stiction <258757028@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiction/image-to/issues"
+  },
+  "homepage": "https://github.com/stiction/image-to#readme"
+}
