@@ -1,6 +1,6 @@
 {
   "name": "image-to",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert image files to various formats",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/stiction/image-to/issues"
   },
-  "homepage": "https://github.com/stiction/image-to#readme"
+  "homepage": "https://github.com/stiction/image-to#readme",
+  "bin": {
+    "image-to": "./bin/image-to.js"
+  },
+  "dependencies": {
+    "sharp": "^0.25.3"
+  }
 }
