@@ -1,6 +1,6 @@
 {
   "name": "image-to",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convert image files to various formats",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "jpeg",
     "png",
     "gif",
-    "webp"
+    "tiff",
+    "svg",
+    "webp",
+    "avif"
   ],
   "author": "stiction <258757028@qq.com>",
   "license": "MIT",
@@ -29,6 +32,6 @@
     "image-to": "./bin/image-to.js"
   },
   "dependencies": {
-    "sharp": "^0.25.3"
+    "sharp": "^0.27.0"
   }
 }

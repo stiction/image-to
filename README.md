@@ -2,9 +2,9 @@
 
 convert image files to various formats.
 
-supports reading JPEG, PNG, WebP, TIFF, GIF and SVG images.
+supports reading JPEG, PNG, WebP, AVIF, TIFF, GIF and SVG images.
 
-output images can be in JPEG, PNG, WebP and TIFF formats.
+output images can be in JPEG, PNG, WebP, AVIF and TIFF formats.
 
 ## Usage
 
