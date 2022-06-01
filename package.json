@@ -32,6 +32,6 @@
     "image-to": "./bin/image-to.js"
   },
   "dependencies": {
-    "sharp": "^0.27.0"
+    "sharp": "^0.30.5"
   }
 }
